@@ -109,6 +109,4 @@ https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US
 
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-7.-Select-the-five-most-common-crimes-and-write-and-SQL-query-that-answer-the-following-for-each-crime-(i.e.-each-primary_type).
 
-https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-7.-Select-the-five-most-common-crimes-and-write-and-SQL-query-that-answer-the-following-for-each-crime-(i.e.-each-primary_type).
-
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-7.-Select-the-five-most-common-crimes-and-write-and-SQL-query-that-answer-the-following-for-each-crime-%28i.e.-each-primary_type%29.
