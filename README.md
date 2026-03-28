@@ -1,6 +1,6 @@
 # Tele2
 
-## Alva test
+## Alva Test Author
 
 svorobyov@gmail.com
 
@@ -27,7 +27,7 @@ For convenience, we converted BigQuery Studio `.ipynb` notebooks
 into `.pdf` and `.html` files to view them with conventional 
 pdf viewers and browsers.
 
-Of course, `.ipynb` notebooks can be best viewed and run inside 
+Of course, optimally `.ipynb` notebooks can be best viewed and run inside 
 BigQuery Studio.
 
 
@@ -59,45 +59,32 @@ Tele2US-2026-03-27-1.pdf
 Tele2US-2026-03-27-1-clean.html
 ```
 
-
-
-## How the responses are organized
-
-...
-
-
-## Directly from GitHub
-
+### Access BigQuery Notebook Using a Pdf Viewer
 
 ```
-atril https://githubusercontent.com/...
-
-chrome https://githubusercontent.com/...
+atril https://raw.githubusercontent.com/svorobyov/tele2/A/Tele2US-2026-03-27-1.pdf &
 ```
 
+### Access BigQuery Full Notebook Using a Web Browser (Works with Chrome)
 
 ```
-
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html
 ```
 
+### Access BigQuery Notebook Using a Web Browser, Task-wise
 
 ```
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-1.-Which-year-had-the-highest-amount-of-crimes?
 
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-2.-Arrest-Rate
+
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-3.-What-were-the-five-most-common-crimes-in-2020?
+
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-4.-How-has-the-arrest-rate-looked-like-over-time?
+
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-5.-What-was-the-arrest-rate-for-thefts-during-2017-and-2018?
+
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-6.-Calculate-the-average-number-of-crimes-committed-per-day-for-each-month.
+
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-7.-Select-the-five-most-common-crimes-and-write-and-SQL-query-that-answer-the-following-for-each-crime-(i.e.-each-primary_type).
 ```
-
-
-```
-
-```
-
-
-```
-
-```
-
-
-```
-
-```
-
-
