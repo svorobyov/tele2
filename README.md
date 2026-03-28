@@ -67,9 +67,8 @@ atril https://raw.githubusercontent.com/svorobyov/tele2/A/Tele2US-2026-03-27-1.p
 
 ### Access BigQuery Full Notebook `.html` Using a Web Browser (Works with Chrome)
 
-```
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html
-```
+
 
 ### Access BigQuery Notebook `.html` Using a Web Browser, Task-wise
 
@@ -95,7 +94,7 @@ https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US
 
 **Task 6:**
 
-https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-6.-Calculate-the-average-number-of-crimes-committed-per-day-for-each-month
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-6.-Calculate-the-average-number-of-crimes-committed-per-day-for-each-month%2E
 
 **Task 7:**
 
