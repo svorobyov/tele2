@@ -77,6 +77,8 @@ https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US
 
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-1.-Which-year-had-the-highest-amount-of-crimes?
 
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-1.-Which-year-had-the-highest-amount-of-crimes%3F
+
 **Task 2:**
 
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-2.-Arrest-Rate
@@ -85,13 +87,19 @@ https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US
 
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-3.-What-were-the-five-most-common-crimes-in-2020?
 
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-3.-What-were-the-five-most-common-crimes-in-2020%3F
+
 **Task 4:**
 
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-4.-How-has-the-arrest-rate-looked-like-over-time?
 
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-4.-How-has-the-arrest-rate-looked-like-over-time%3F
+
 **Task 5:**
 
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-5.-What-was-the-arrest-rate-for-thefts-during-2017-and-2018?
+
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-5.-What-was-the-arrest-rate-for-thefts-during-2017-and-2018%3F
 
 **Task 6:**
 
@@ -100,3 +108,7 @@ https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US
 **Task 7:**
 
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-7.-Select-the-five-most-common-crimes-and-write-and-SQL-query-that-answer-the-following-for-each-crime-(i.e.-each-primary_type).
+
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-7.-Select-the-five-most-common-crimes-and-write-and-SQL-query-that-answer-the-following-for-each-crime-(i.e.-each-primary_type).
+
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-7.-Select-the-five-most-common-crimes-and-write-and-SQL-query-that-answer-the-following-for-each-crime-%28i.e.-each-primary_type%29.
