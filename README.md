@@ -59,21 +59,20 @@ Tele2US-2026-03-27-1.pdf
 Tele2US-2026-03-27-1-clean.html
 ```
 
-### Access BigQuery Notebook Using a Pdf Viewer
+### Access BigQuery Notebook `.pdf` Using a Pdf Viewer
 
 ```
 atril https://raw.githubusercontent.com/svorobyov/tele2/A/Tele2US-2026-03-27-1.pdf &
 ```
 
-### Access BigQuery Full Notebook Using a Web Browser (Works with Chrome)
+### Access BigQuery Full Notebook `.html` Using a Web Browser (Works with Chrome)
 
 ```
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html
 ```
 
-### Access BigQuery Notebook Using a Web Browser, Task-wise
+### Access BigQuery Notebook `.html` Using a Web Browser, Task-wise
 
-```
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-1.-Which-year-had-the-highest-amount-of-crimes?
 
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-2.-Arrest-Rate
@@ -87,4 +86,3 @@ https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-6.-Calculate-the-average-number-of-crimes-committed-per-day-for-each-month.
 
 https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-7.-Select-the-five-most-common-crimes-and-write-and-SQL-query-that-answer-the-following-for-each-crime-(i.e.-each-primary_type).
-```
