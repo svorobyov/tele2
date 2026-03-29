@@ -22,11 +22,7 @@ Once you have a query that answers the question, add the code snippet to the spe
 
 Which year had the highest amount of crimes?
 
-> Answer:
-https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-1.-Which-year-had-the-highest-amount-of-crimes%3F
-
-https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-1.-Which-year-had-the-highest-amount-of-crimes%3F
-
+> **Answer:** https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-1.-Which-year-had-the-highest-amount-of-crimes%3F
 
 
 ## Task 2
@@ -35,14 +31,15 @@ Let's define "Arrest Rate" as the share of crimes that led to an arrest.
 
 What year had the highest arrest rate? What is the overall trend in number of crimes per year?
 
-> Answer: https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-2.-Arrest-Rate
+> **Answer:** https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-2.-Arrest-Rate
 
 
 ## Task 3
 
 What were the five most common crimes in 2020? Which of those crimes had the highest and lowest arrest rate?
 
-> TODO: Your answer
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-3.-What-were-the-five-most-common-crimes-in-2020%3F
+> **Answer:** 
 
 ## Task 4
 
@@ -54,7 +51,8 @@ How has the arrest rate looked like over time?
 
 > Since the data set is constantly updating, disregard the year 2021 and later for the analysis in this question.
 
-> TODO: Your answer
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-4.-How-has-the-arrest-rate-looked-like-over-time%3F
+> **Answer:** 
 
 ## Task 5
 
@@ -64,7 +62,8 @@ How has the arrest rate looked like over time?
 
 Comment on your conclusions.
 
-> TODO: Your answer
+> **Answer:** https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-5.-What-was-the-arrest-rate-for-thefts-during-2017-and-2018%3F
+
 
 ## Task 6
 
@@ -72,7 +71,8 @@ Calculate the average number of crimes committed per day for each month. Which m
 
 > Since the data set is constantly updating, disregard the year 2021 and later for the analysis in this question.
 
-> TODO: Your answer
+> **Answer:** https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-6.-Calculate-the-average-number-of-crimes-committed-per-day-for-each-month%2E
+
 
 ## Task 7
 
@@ -83,4 +83,4 @@ Select the five most common crimes and write and SQL query that answer the follo
 
 > Since the data set is constantly updating, disregard the year 2021 and later for the analysis in this question.
 
-> TODO: Your answer
+> **Answer:** https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-7.-Select-the-five-most-common-crimes-and-write-and-SQL-query-that-answer-the-following-for-each-crime-%28i.e.-each-primary_type%29%2E
