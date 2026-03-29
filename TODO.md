@@ -21,8 +21,8 @@ Once you have a query that answers the question, add the code snippet to the spe
 
 ## Files in this Repository
 
-1. `Tele2US-2026-03-27-1.ipynb` - the initial source of truth, the actual working BigQuery Studio notebook
-   with all code and execution cells with query/code execution results, graph plots
+1. `Tele2US-2026-03-27-1.ipynb` - the initial source of truth, the actual working BigQuery Studio notebook for this Alva test assignment,
+   with all code and execution cells with query/code execution results, graph plots; can be directly executed in BigQuery Studio
 
 2. `Tele2US-2026-03-27-1.pdf` - the notebook in 1 transformed to `.pdf`, can be viewed in any reader like `acroread`, `qpdfview`, ...
    (BigQuery Studio notebooks are highly non-standard, some features may be lost)
@@ -31,7 +31,7 @@ Once you have a query that answers the question, add the code snippet to the spe
 
 4. `Tele2US-2026-03-27-1-clean.html` - the file in 3 transformed into `.html`
 
-**Bottom line:** most reliable (and executable) in file in 1. Files 2, 4 are convenient to view in a pdf browser and any web browser, respectively.
+**Bottom line:** most reliable (and executable) is the file in 1. Files 2, 4 are convenient to view in a pdf browser and any web browser, respectively.
 
 
 ## Task 1 
