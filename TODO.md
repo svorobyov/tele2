@@ -19,6 +19,15 @@ Feel free to explore the dataset and try out different queries using the BigQuer
 Once you have a query that answers the question, add the code snippet to the specific question as well any supportive reasoning/comment that you may have.
 
 
+## Important Notice
+
+A known friction point with BigQuery Studio notebooks is that 
+they are not first-class Jupyter notebooks and lack clean 
+export/formatting pipelines (unlike classic .ipynb workflows). 
+The “pretty print” and sharing problem typically arises because 
+output cells contain rich GCP UI artifacts (tables, charts) 
+not serialized cleanly.
+
 ## Files in this Repository
 
 1. `Tele2US-2026-03-27-1.ipynb` - the initial source of truth, the actual working BigQuery Studio notebook for this Alva test assignment,
