@@ -38,8 +38,7 @@ What year had the highest arrest rate? What is the overall trend in number of cr
 
 What were the five most common crimes in 2020? Which of those crimes had the highest and lowest arrest rate?
 
-https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-3.-What-were-the-five-most-common-crimes-in-2020%3F
-> **Answer:** 
+> **Answer:** https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-3.-What-were-the-five-most-common-crimes-in-2020%3F
 
 ## Task 4
 
@@ -51,8 +50,8 @@ How has the arrest rate looked like over time?
 
 > Since the data set is constantly updating, disregard the year 2021 and later for the analysis in this question.
 
-https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-4.-How-has-the-arrest-rate-looked-like-over-time%3F
 > **Answer:** 
+https://htmlpreview.github.io/?https://github.com/svorobyov/tele2/blob/A/Tele2US-2026-03-27-1-clean.html#Task-4.-How-has-the-arrest-rate-looked-like-over-time%3F
 
 ## Task 5
 
