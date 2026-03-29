@@ -18,6 +18,22 @@ Feel free to explore the dataset and try out different queries using the BigQuer
 
 Once you have a query that answers the question, add the code snippet to the specific question as well any supportive reasoning/comment that you may have.
 
+
+## Files in this Repository
+
+1. `Tele2US-2026-03-27-1.ipynb` - the initial source of truth, the actual working BigQuery Studio notebook
+   with all code and execution cells with query/code execution results, graph plots
+
+2. `Tele2US-2026-03-27-1.pdf` - the notebook in 1 transformed to `.pdf`, can be viewed in any reader like `acroread`, `qpdfview`, ...
+   (BigQuery Studio notebooks are highly non-standard, some features may be lost)
+
+3. `Tele2US-2026-03-27-1-clean.ipynb` - the notebooks from 1 stripped from all nonstandard BigQuery Studio widgets (to be able to transform to the `.html` file in 4)
+
+4. `Tele2US-2026-03-27-1-clean.html` - the file in 3 transformed into `.html`
+
+**Bottom line:** most reliable (and executable) in file in 1. Files 2, 4 are convenient to view in a pdf browser and any web browser, respectively.
+
+
 ## Task 1 
 
 Which year had the highest amount of crimes?
